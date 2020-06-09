@@ -1,75 +1,52 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+      "name": "Michael Scott",
+      "occupation": "Regional Manager",
+      "location": "Dunder Mifflin"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
-      "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
+      "name": "Jim Halpert",
+      "occupation": "Co-Regional Manager" ,
+      "location": "Dunder Mifflin"
     },
     {
       "id": 3,
-      "name": "Squidward",
-      "occupation": "Cashier",
-      "location": "An Easter Island Head"
+      "name": "Dwight Schrute",
+      "occupation": "Beet Farmer",
+      "location": "Schrute Farms"
     },
     {
       "id": 4,
-      "name": "Dexter",
-      "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
+      "name": "Pam Beesley",
+      "occupation": "Office Administrator",
+      "location": "Dunder Mifflin"
     },
     {
       "id": 5,
-      "name": "Courage",
-      "occupation": "A Cowardly Dog",
-      "location": "Nowhere, Kansas"
+      "name": "Jan Levinson",
+      "occupation": "Candle maker",
+      "location": "Serenity by Jan"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
-      "occupation": "Student",
-      "location": "Bluffington"
+      "name": "Ryan Howard",
+      "occupation": "Temp",
+      "location": "Dunder Mifflin"
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
-      "occupation": "Looney Toon",
-      "location": "A Rabbit Burrow"
+      "name": "Kelly Kapoor",
+      "occupation": "Customer Service",
+      "location": "Dunder Mifflin"
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
-      "occupation": "Ladies Man",
-      "location": "Aron City"
-    },
-    {
-      "id": 9,
-      "name": "Tommy Pickles",
-      "occupation": "Adventurer",
-      "location": "California"
-    },
-    {
-      "id": 10,
-      "name": "Rocko",
-      "occupation": "Cashier",
-      "location": "O-Town, California"
-    },
-    {
-      "id": 11,
-      "name": "Captain Planet",
-      "occupation": "Superhero",
-      "location": "Earth"
-    },
-    {
-      "id": 12,
-      "name": "Ickis",
-      "occupation": "Ahhhh! A Real Monster!",
-      "location": "Under a City Dump"
+      "name": "Mose Schrute",
+      "occupation": "Farm hand",
+      "location": "Schrute Farms"
     }
+    
   ]
   
